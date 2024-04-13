@@ -151,3 +151,45 @@ a:hover {
   background-color: #ad1818;
   color: #fff;
 }
+
+.services {
+  max-width: 1400px;
+  background-color: #121212;
+}
+
+.services__title {
+  box-sizing: border-box;
+  padding-left: 127px;
+  padding-top: 151px;
+  margin-bottom: 35px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.services__offers {
+  width: 1150px;
+  padding: 0 125px;
+}
+
+.services__img {
+  max-width: 100%;
+  padding-bottom: 15px;
+}
+
+.services__info {
+  padding-bottom: 60px;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 41px;
+  letter-spacing: -0.03em;
+  color: #ffffff;
+}
+
+.last_info {
+  padding-bottom: 150px;
+}
