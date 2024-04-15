@@ -55,7 +55,7 @@ h1 {
 }
 
 .box-about {
-  width: 1051px;
+  width: 1180px;
 }
 
 h2 {
@@ -111,7 +111,7 @@ a.description__link:hover {
 }
 
 .design {
-  width: 1150px;
+  width: 1180px;
 }
 
 .design__img {
@@ -142,7 +142,7 @@ a.design__info {
 }
 
 .designs__btn {
-  width: 1150px;
+  width: 1180px;
   padding-top: 51px;
   padding-bottom: 51px;
   box-sizing: border-box;
@@ -163,7 +163,7 @@ a.design__info {
 }
 
 .services {
-  max-width: 1400px;
+  max-width: 1150px;
   background-color: #121212;
 }
 
