@@ -167,6 +167,7 @@ a {
 
 .services {
   max-width: 100%;
+  /* margin: 0 auto; */
   background-color: #121212;
 }
 
