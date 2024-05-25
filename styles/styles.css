@@ -16,7 +16,7 @@ body {
   /* margin-bottom: 150px; */
   padding: 0 15px;
 }
-яч h1,
+h1,
 h2,
 h3,
 p,
@@ -243,4 +243,27 @@ a {
 .nav-link_active {
   text-decoration: underline;
   color: #9e9696;
+}
+
+.bedroom__box {
+  position: relative;
+  width: 100%;
+  height: 717px;
+  background-image: url("../resources/bed.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.bedroom__text {
+  position: absolute;
+  left: 125px;
+  bottom: 60px;
+  width: 443px;
+  height: 82px;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 41px;
+  letter-spacing: -0.03em;
+  color: #fff;
 }
