@@ -193,3 +193,50 @@ a {
   letter-spacing: -0.03em;
   color: #ffffff;
 }
+
+.nav-section {
+  min-width: 1151px;
+  margin-top: 32.82px;
+  margin-bottom: 61px;
+}
+
+.nav-container {
+  margin: 0 auto;
+  width: 1151px;
+  /* border: 1px solid red; */
+}
+
+.logo-link {
+  display: inline-block;
+  margin-right: 485px;
+}
+
+.logo {
+  display: block;
+  width: 128px;
+  height: 23px;
+  padding-bottom: 2.76px;
+}
+
+.nav {
+  display: inline-block;
+  /* vertical-align: auto; */
+}
+
+.nav-link {
+  display: inline-block;
+  margin-left: 60px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: #121212;
+  text-decoration: none;
+}
+
+.nav-link:hover,
+.nav-link_active {
+  text-decoration: underline;
+  color: #9e9696;
+}
